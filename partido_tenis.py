@@ -1,4 +1,5 @@
 class Puntos:
 
     def calcularResultado(self, set):
-        pass
+        resultado = "Love"
+        return resultado
